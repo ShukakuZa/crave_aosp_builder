@@ -159,7 +159,7 @@ jobs:
           export PROJECTID="85"
           export REPO_INIT="repo init -u https://github.com/accupara/los18.1.git -b lineage-18.1 --git-lfs --depth=1"
         ;;
-        "LineageOS 16.0")
+        "MistOS 14")
           export PROJECTFOLDER="/crave-devspaces/MistOS"
           export PROJECTID="81"
           export REPO_INIT="repo init -u https://github.com/Project-Mist-OS/manifest.git -b qpr3 --git-lfs --depth=1"
